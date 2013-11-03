@@ -1,0 +1,22 @@
+{
+  "name": "leaflet-workshop",
+  "version": "0.0.0",
+  "description": "stuff for my avidgeo workshop",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/calvinmetcalf/leaflet-workshop.git"
+  },
+  "author": "Calvin Metcalf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvinmetcalf/leaflet-workshop/issues"
+  },
+  "devDependencies": {
+    "leaflet": "~0.6.4",
+    "browserify": "~2.35.1"
+  },
+  "dependencies": {
+    "proj4": "~1.5.0-dev.5"
+  }
+}
