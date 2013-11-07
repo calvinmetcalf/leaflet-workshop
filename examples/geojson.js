@@ -3,7 +3,7 @@ module.exports = {
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"letter":"H"},
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -36,7 +36,7 @@ module.exports = {
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"letter":"I","vowel":true},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
