@@ -7,7 +7,8 @@ ideas:
 
 - extend geojson to cluster the points
 - better way to deal with the css (you probobly don't want to use [mine](https://github.com/leaflet-extras/leaflet.css))
-- bindPopup+handle bars
+- bindPopup+[handle bars](http://handlebarsjs.com/)
+- [awesome markers](https://github.com/lvoogdt/Leaflet.awesome-markers), but more so
 - consume raj's poi format (any of them)
     - extra credit to write a geopackage plugin (examples of binary plugins are my [shp file](https://github.com/calvinmetcalf/leaflet.shapefile) and [fileGDB](https://github.com/calvinmetcalf/leaflet.filegdb))
 - extend [leaflet.pouch](https://github.com/calvinmetcalf/leaflet.pouch) to deal with cloudant geometry (or just be better with a Gruntfile and tests)
